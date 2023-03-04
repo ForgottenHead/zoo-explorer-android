@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179808760519",
+    "project_id": "zooexplorer-3b5f3",
+    "storage_bucket": "zooexplorer-3b5f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179808760519:android:31a26cc5905f1aff55c4e2",
+        "android_client_info": {
+          "package_name": "com.mendelu.xstast12.zooexplorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179808760519-3vkimchgkcpeub1oi0epq2eq0r5nfob4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpvLSMCwWbi-Hgi8W9flCnq_NWZxoWgwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179808760519-3vkimchgkcpeub1oi0epq2eq0r5nfob4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
