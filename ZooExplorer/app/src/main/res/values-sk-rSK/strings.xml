@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZooExplorer</string>
+    <string name="empty_database">Ziadne zvierata v databaze</string>
+    <string name="back_arrow">Sipka spat</string>
+    <string name="continent">Kontinent:</string>
+    <string name="animal_class">Trieda:</string>
+    <string name="order">Druh:</string>
+    <string name="family">Celad:</string>
+    <string name="base_info">Zakladne informacie</string>
+    <string name="length">Dlzka:</string>
+    <string name="weight">Vaha:</string>
+    <string name="georange">Vyskyt:</string>
+    <string name="diet">Potrava:</string>
+    <string name="lifespan">Zivotnost:</string>
+    <string name="iucn">IUCN:</string>
+    <string name="show_in_ar">Zobrazit v rozsirenej realite (AR)</string>
+    <string name="navigate_wih">Navigovat pomocou Google Maps</string>
+    <string name="map">Mapa</string>
+    <string name="list">Zoznam</string>
+    <string name="favourites">Oblubene</string>
+    <string name="infors">Informacie</string>
+    <string name="animal_list">Zoznam zvierat</string>
+    <string name="favourite_animals_list">Zoznam oblubenych zvierat</string>
+    <string name="contact">Kontakt:</string>
+    <string name="info_line">Infromacna linka</string>
+    <string name="phone">Telefon</string>
+    <string name="email">E-mail</string>
+</resources>

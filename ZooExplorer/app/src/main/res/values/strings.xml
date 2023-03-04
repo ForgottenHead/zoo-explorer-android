@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ZooExplorer</string>
+    <string name="empty_database">No animals in database</string>
+    <string name="back_arrow">Back arrow</string>
+    <string name="continent">Continent:</string>
+    <string name="animal_class">Class:</string>
+    <string name="order">Order:</string>
+    <string name="family">Family:</string>
+    <string name="base_info">Base information</string>
+    <string name="length">Length:</string>
+    <string name="weight">Weight:</string>
+    <string name="georange">GeoRange:</string>
+    <string name="diet">Diet:</string>
+    <string name="lifespan">Lifespan:</string>
+    <string name="iucn">IUCN:</string>
+    <string name="show_in_ar">Show in augmented reality (AR)</string>
+    <string name="navigate_wih">Navigate with Google Maps</string>
+    <string name="map">Map</string>
+    <string name="list">List</string>
+    <string name="favourites">Favourites</string>
+    <string name="infors">Informations</string>
+    <string name="animal_list">Animals list</string>
+    <string name="favourite_animals_list">Favorite Animals List</string>
+    <string name="contact">Contact:</string>
+    <string name="info_line">Information line</string>
+    <string name="phone">Phone</string>
+    <string name="email">E-mail</string>
+</resources>
